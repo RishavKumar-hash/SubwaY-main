@@ -38,6 +38,6 @@ This project is licensed under the [Chandigarh University](LICENSE).
 We would like to express our gratitude to the open-source communities behind Python, Excel, and Power BI for their incredible tools and frameworks that made this project possible.
 
 ## Contact
-For any inquiries or questions, please contact the me at [theabhishekdas279@gmail.com]
+For any inquiries or questions, please contact the me at [rishavkr5302@gmail.com]
 
 Let's make data management on Subway 🚇 a delightful journey! 📊
